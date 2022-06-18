@@ -326,10 +326,10 @@ function clearStatusClass(element) {
         urls : "https://images.unsplash.com/photo-1562504208-03d85cc8c23e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1500&q=80"
       },
       {
-        question: 'What do you think are the New Technologies 4.0?',
+        question: 'What tag to be used in bold?',
         answers: [
-          { text: 'Biotechnology', correct: false },
-          { text: 'Humanoid Robots', correct: false },
+          { text: '<b>', correct: false },
+          { text: 'b', correct: false },
           { text: 'Artificial Intelligence', correct: false },
           { text: 'All of the above', correct: true }
         ],
