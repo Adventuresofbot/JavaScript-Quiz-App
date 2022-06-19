@@ -100,7 +100,7 @@ body {
   /* position: absolute; */
   /* top: 50px; */
   font-size: 40px;
-  color: white;
+  color: darkblue;
   text-shadow:
   -1px -1px 0 #000,
   1px -1px 0 #000,
@@ -110,7 +110,7 @@ body {
 }
 .subtitle__question1 p{
   font-size: 40px;
-  color: white;
+  color: maroon;
   text-shadow:
   -1px -1px 0 #000,
   1px -1px 0 #000,
@@ -120,7 +120,7 @@ body {
 
 .subtitle__question2 p{
   font-size: 40px;
-  color: white;
+  color: yellow;
   text-shadow:
   -1px -1px 0 #000,
   1px -1px 0 #000,
@@ -130,7 +130,7 @@ body {
 
 .subtitle__question3 p{
   font-size: 40px;
-  color: white;
+  color: orange;
   text-shadow:
   -1px -1px 0 #000,
   1px -1px 0 #000,
@@ -139,7 +139,7 @@ body {
 }
 .subtitle__question4 p{
   font-size: 40px;
-  color: white;
+  color: violet;
   text-shadow:
   -1px -1px 0 #000,
   1px -1px 0 #000,
@@ -164,12 +164,12 @@ body {
  --hue: var(--hue-neutral);
   border: 1px solid hsl(var(--hue), 0%, 20%);
   /*background-color: hsl(var(--hue), 0%, 20%);*/  
-  background-color: #13436b;
-  /*background-color: #310F0F;*/
+  background-color: indigo;
+  /*background-color: #skyblue;*/
   border-radius: 0px;
   padding: 5px 10px;
   
-  color: white;
+  color: #bbb;
   outline: none;
 }
 
@@ -177,21 +177,21 @@ body {
   border-radius: 0px;
   padding: 5px 10px;
   font-size: 20px;
-  color: white;
+  color: blue;
   outline: none;
   margin-bottom: 5px; 
 }
 
 .btn:hover {
-  border-color: white;
+  border-color: purple;
   cursor: pointer;
 }
 
 .btn.correct {
   --hue: var(--hue-correct);
-  color: black;
-  border-color: black;
-  background-color: white;
+  color: green;
+  border-color: yellow;
+  background-color: blue;
   
 }
 
@@ -199,11 +199,11 @@ body {
   --hue: var(--hue-wrong);
   /*color: #1A1919;*/
 /*   color: #BDBDBD; */
-  color: #f2f2f2;
+  color: pink;
 }
 
 .selected-wrong-answer {
-  background: #A4A4A4;
+  background: #Darkred;
 }
 
 .start-btn, .next-btn, .end-btn {
@@ -228,7 +228,7 @@ body {
 }
 
 body {
-  background-color: #e0e0e0;
+  background-color: red;
 }
 
 h1 {
@@ -250,7 +250,7 @@ html {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #DFDFDF;
+    background-color: aqua;
 }
 
 .controls > .next-btn {
