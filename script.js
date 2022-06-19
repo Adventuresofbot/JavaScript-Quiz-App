@@ -316,10 +316,10 @@ function clearStatusClass(element) {
       {
         question: 'Where are the HCE 4 services available?',
         answers: [
-          { text: 'Europe', correct: false },
-          { text: 'North America', correct: false },
-          { text: 'Asia', correct: false },
-          { text: 'Everywhere', correct: true }
+          { text: 'India', correct: false },
+          { text: 'Ahmedabad', correct: false },
+          { text: 'As', correct: false },
+          { text: 'Everywhere lol', correct: true }
         ],
         explanation : "The 4th Industrial Revolution does not know borders and neither do we. As an international business, we provide services that reach all over the world",
 //         urls : "https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1633&q=80"
@@ -330,7 +330,7 @@ function clearStatusClass(element) {
         answers: [
           { text: '<b>', correct: false },
           { text: 'b', correct: false },
-          { text: 'Artificial Intelligence', correct: false },
+          { text: '<bold>', correct: false },
           { text: 'All of the above', correct: true }
         ],
         explanation : "The Fourth Industrial Revolution is based on New Technologies 4.0, such as Artificial Intelligence, Biotechnologies, Humanoid Robots, etc",
@@ -339,12 +339,12 @@ function clearStatusClass(element) {
         
       },
       {
-        question: 'Are you ready for the 4th industrial revolution?',
+        question: 'Are you ready for the 4th utsa industrial revolution?',
         answers: [
-          { text: 'Yes', correct: true },
-          { text: 'Absolutely Yes', correct: true },
-          { text: '100% Yes', correct: true },
-          { text: "I don't feel ready", correct: true }
+          { text: 'best', correct: true },
+          { text: ' Yes', correct: true },
+          { text: '1Yes', correct: true },
+          { text: "I don't fejel ready", correct: true }
         ],
         explanation : "Whatever your level of readiness is, and even if you are not fully prepared, we are equipped to accompany you into the 4th Industrial Revolution",
         urls : "https://images.unsplash.com/photo-1521791136064-7986c2920216?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80"
